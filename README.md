@@ -15,16 +15,19 @@
   <h1>Hi there, I'm Linh Watson! 👋</h1>
 </div>
 
-## About Me
+## :four_leaf_clover: About Me
 - :round_pushpin: Based in Highland Mills, NY
 - :smile: Pronouns: she/her/hers
 - 👩‍⚕️ Surgical Technician ➡️ Full-Stack Software Engineer 👩‍💻
 - :mortar_board:  Graduated with BS in Chemistry, Chemical Biology at University of California, Irvine
 - :octocat:  Learning data structures and algorithms at ![LeetCode](https://img.shields.io/badge/LeetCode%20-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
 - :bookmark:  "Not all those who wander are lost."
-- :sunflower:  My hobbies include reading, stationery, digital art, and trying out new things!
+- :sunflower:  My hobbies include reading, stationery, digital art, and learning new things!
 
-## My Stats
+## :fire: My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhwatson&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linhwatson&theme=tokyonight&border_radius=4.6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhwatson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 <table>
