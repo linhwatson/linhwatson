@@ -25,9 +25,10 @@
 - :sunflower:  My hobbies include reading, stationery, digital art, and learning new things!
 
 ## :fire: My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhwatson&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linhwatson&theme=tokyonight&border_radius=4.6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhwatson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhwatson&show_icons=true&theme=tokyonight&count-private=true)
+[![Catalin's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=linhwatson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linhwatson&theme=tokyonight&count-private=true&border_radius=4.6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhwatson&count-private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 <table>
