@@ -1,4 +1,21 @@
-## Hi there, I'm Linh Watson! 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fURq7MkbDvSUbiQhk2/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://github.com/linhwatson">
+      <img src="https://img.shields.io/badge/linhwatson%20-%2343853D.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/linhwatson">
+      <img src="https://img.shields.io/badge/linhwatson%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:linh.hoangwatson@gmail.com">
+      <img src="https://img.shields.io/badge/linhwatson%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=linhwatson&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hi there, I'm Linh Watson! 👋
+  </h1>
+</div>
 
 [![GitHub](https://img.shields.io/badge/linhwatson%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/linhwatson)](https://github.com/linhwatson)
 [![LinkedIn](https://img.shields.io/badge/linhwatson%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/linhwatson/)](https://www.linkedin.com/in/linhwatson/)
