@@ -60,6 +60,7 @@
         <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white" /> 
         <img alt="mySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white" /> 
         <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white" /> 
+        <img alt="k6" src="https://img.shields.io/badge/K6%20-CA4245.svg?&style=flat-square&logo=k6&logoColor=white"
         <img alt="jest" src="https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white" />
         <img alt="mocha" src="https://img.shields.io/badge/-mocha%20-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
         <img alt="testing library" src="https://img.shields.io/badge/-Testing_Library%20-%2343853D.svg?logo=testing-library&logoColor=white&style=flat-square" />
