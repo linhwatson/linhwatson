@@ -47,7 +47,7 @@
         <img alt"React Router" src="https://img.shields.io/badge/React_Router%20-CA4245?style=flat-square&logo=react-router&logoColor=white" /> 
         <img alt"Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" /> 
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" /> 
-        <img alt="Express.js" src="https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square" /> 
+        <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-000000?style=flat-square&logo=express&logoColor=white" /> 
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-0769AD?style=flat-square&logo=jquery&logoColor=white" /> 
         <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?style=flat-sqaure&logo=tailwind-css&logoColor=white" /> 
         <img alt="Styled Components" src="https://img.shields.io/badge/styled--components%20-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white" />
