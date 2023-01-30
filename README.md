@@ -72,6 +72,7 @@
       <td>
         <img alt="aws" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> 
         <img alt="npm" src="https://img.shields.io/badge/npm%20-CB3837?style=flat-square&logo=npm&logoColor=white" /> 
+        <img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220" />
         <img alt="webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" /> 
         <img alt="babel" src="https://img.shields.io/badge/Babel%20-%F9DC3E?style=flat-square&logo=babel&logoColor=white" /> 
         <img alt="git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white" /> 
