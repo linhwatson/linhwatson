@@ -49,8 +49,9 @@
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white" /> 
         <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" /> 
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery%20-0769AD?style=flat-square&logo=jquery&logoColor=white" /> 
-        <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?style=flat-sqaure&logo=tailwind-css&logoColor=white" /> 
-        <img alt="Styled Components" src="https://img.shields.io/badge/styled--components%20-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white" />
+        <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" /> 
+        <img alt="Styled Components" src="https://img.shields.io/badge/styled--components%20-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+        <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
         <img alt="Three.js" src="https://img.shields.io/badge/threejs%20-black?style=flat-square&logo=three.js&logoColor=white" /> 
       </td>
   </tr>
