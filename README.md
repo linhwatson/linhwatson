@@ -54,6 +54,7 @@
         <img alt="Styled Components" src="https://img.shields.io/badge/styled--components%20-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
         <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />
         <img alt="Three.js" src="https://img.shields.io/badge/threejs%20-black?style=flat-square&logo=three.js&logoColor=white" /> 
+        <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
       </td>
   </tr>
   <tr>
@@ -76,7 +77,6 @@
         <img alt="pnpm" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220" />
         <img alt="webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black" /> 
         <img alt="babel" src="https://img.shields.io/badge/Babel%20-%F9DC3E?style=flat-square&logo=babel&logoColor=white" /> 
-        <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
         <img alt="git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white" /> 
         <img alt="vscode" src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" /> 
       </td>
