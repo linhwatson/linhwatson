@@ -20,7 +20,7 @@
 - :smile: Pronouns: she/her/hers
 - 👩‍⚕️ Surgical Technician ➡️ Full-Stack Software Engineer 👩‍💻
 - :mortar_board:  Graduated with BS in Chemistry, Chemical Biology at University of California, Irvine
-- :octocat:  Learning data structures and algorithms at ![LeetCode](https://img.shields.io/badge/LeetCode%20-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)
+- :octocat:  Working on my personal projects 
 - :bookmark:  "Not all those who wander are lost."
 - :sunflower:  My hobbies include reading, stationery, digital art, and learning new things!
 
