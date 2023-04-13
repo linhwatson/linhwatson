@@ -27,7 +27,7 @@
 ## :fire: My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=linhwatson&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linhwatson&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=4.6)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhwatson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linhwatson&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :hammer: Tech Stack
 <table>
