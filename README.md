@@ -18,7 +18,6 @@
 ## :four_leaf_clover: About Me
 - :round_pushpin: Based in Highland Mills, NY
 - :smile: Pronouns: she/her/hers
-- 👩‍⚕️ Surgical Technician ➡️ Full-Stack Software Engineer 👩‍💻
 - :mortar_board:  Graduated with BS in Chemistry, Chemical Biology at University of California, Irvine
 - :octocat:   Currently working on my personal projects 
 - :bookmark:  "Not all those who wander are lost."
